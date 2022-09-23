@@ -1,0 +1,2 @@
+gcloud compute instances list
+gcloud compute instances create heelo --zone=us-central1-a
